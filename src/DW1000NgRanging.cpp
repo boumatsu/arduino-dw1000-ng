@@ -27,7 +27,6 @@
 #include "DW1000NgConstants.hpp"
 #include "DW1000NgRanging.hpp"
 #include "DW1000NgConstants.hpp"
-#include "DW1000NgRTLS.hpp"
 
 namespace DW1000NgRanging {
 
